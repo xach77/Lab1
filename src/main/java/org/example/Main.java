@@ -5,5 +5,7 @@ public class Main {
 
         System.out.println("Hello, World!");
         System.out.println("New changes in the main.java");
+        System.out.println("Hello, World!, from branch2");
+
     }
 }
